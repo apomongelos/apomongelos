@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Mongelos</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Argentina. Bachelor in Information Systems specialized in the area of software engineering and web application development. Focused on problem solving, teamwork and good time management skills. Advanced knowledge in different Programing languages and fluent English (B1 level).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
